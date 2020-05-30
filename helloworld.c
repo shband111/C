@@ -1,3 +1,12 @@
+/* --------------------------------------------------------- */
+/* File name: helloworld.c                                   */
+/* This code is free to use and change by anyone who refers. */
+/* --------------------------------------------------------- */
+/* For more IT related topics:                               */
+/* https://www.youtube.com/channel/UCXe6CgNVgRww5U1mgM1X-AQ  */ 
+/* --------------------------------------------------------- */
+
+
 //include library files needed to run the program
 #include <stdio.h>
 
